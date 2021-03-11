@@ -42,4 +42,14 @@ function platten(arr) {
   })
 }
 
+// 栈
+
+// Generator
+
+// 原型链
+
+// 通过传入整数参数控制“拉平”层数
+
+// 考虑数组空位的情况
+
 console.log(platten(arr)) // 函数提升
